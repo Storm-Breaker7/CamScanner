@@ -1,0 +1,21 @@
+body {
+margin:50px;
+
+background-color: orange;
+ }
+h2 {
+font-family:jokerman;
+ color:white;
+ font-size: 300%;
+}
+h3{
+font-size:200%;
+margin:10px;
+ color:Green;
+}
+p {
+font-family:calibiri;
+margin:20px;
+padding:10px;
+}
+
